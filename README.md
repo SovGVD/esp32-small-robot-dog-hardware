@@ -1,10 +1,5 @@
-# Small Robot dog (quadruped)
+# Small Robot dog (quadruped) - printable parts
 
-## Hardware
- - ESP32
- - IMU (not implemented)
- - 12 servos TowerPro mg90d (hope it will work)
- - Two 18650
-
-## Software
- - Arduino IDE compatible
+## Files
+ - body/ - small dog body parts
+ - tools/ - some helpers, e.g. calibrate servo
