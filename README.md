@@ -2,4 +2,4 @@
 
 ## Files
  - body/ - small dog body parts
- - tools/ - some helpers, e.g. calibrate servo
+ - tools/ - some helpers, calibrate servo and legs
